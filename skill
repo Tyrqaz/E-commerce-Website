@@ -1,0 +1,19 @@
+const { json } = require("express");
+
+\css
+.searchInput::placeholder {
+  color: lightgray;
+}
+clip-path maker
+https://bennettfeely.com/clippy/
+:nth-child
+https://developer.mozilla.org/zh-CN/docs/Web/CSS/:nth-child
+float: right
+
+\html
+<a></a>
+
+\js
+scroll-behavior
+
+https://youtu.be/b3Gqq_k-g24?list=PLL5taXRLzd89hR7zTiog7kjYCrHN_n7IE&t=4476
